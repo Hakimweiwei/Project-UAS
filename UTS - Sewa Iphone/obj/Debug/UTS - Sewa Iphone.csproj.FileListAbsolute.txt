@@ -1,0 +1,28 @@
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.exe.config
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.exe
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.pdb
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.AssemblyReference.cache
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form1Login.resources
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Properties.Resources.resources
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.GenerateResource.cache
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.CoreCompileInputs.cache
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.exe
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.pdb
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form2.resources
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form3.resources
+D:\Daud - Amikom\Semester 3\Pemograman Lanjut\Uji Coba\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form4.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.AssemblyReference.cache
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.exe
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.pdb
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.exe.config
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.exe
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\UTS - Sewa Iphone.pdb
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\bin\Debug\Guna.UI2.dll
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form1Login.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form2.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form3.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Form4.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS___Sewa_Iphone.Properties.Resources.resources
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.GenerateResource.cache
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Sewa Iphone.csproj.CoreCompileInputs.cache
+D:\Kuliah\pemprogaman\UTS - Sewa Iphone\UTS - Sewa Iphone\obj\Debug\UTS - Se.FB9DBD62.Up2Date
